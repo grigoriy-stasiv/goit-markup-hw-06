@@ -1103,6 +1103,46 @@ gap: 72px 24px;
 .prtf-intem{
 width: calc((100% - 24px) /2);
 }
+
+.footer-container{
+    align-items: flex-start;
+    padding-top: 96px;
+    padding-left: 108px;
+
+}
+
+.footer-web-social{
+    display: flex;
+    gap: 24px;
+}
+
+.footer-web{
+    max-width: 264px;
+    
+}
+
+.footer-logo{
+    margin: 0;
+    justify-content: flex-start;
+}
+
+.footer-social-text{
+   justify-content: flex-start;
+}
+
+.footer-text-sub{
+justify-content: flex-start;
+}
+
+.footer-form{
+    flex-direction: row;
+    gap: 24px;
+}
+
+.footer-form-input{
+    width: 264px;
+}
+
 }
 
 
