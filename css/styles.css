@@ -958,6 +958,10 @@ margin: 0 auto;
     display: none;
  }
 
+ .mob-menu-open{
+    display: none;
+ }
+
  .logo{
     margin-right: 120px;
     margin-left: 0;
@@ -1125,6 +1129,9 @@ margin: 0 auto;
 }
 
 .mob-menu {
+    display: none;
+}
+.mob-menu-open {
     display: none;
 }
 
